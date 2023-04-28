@@ -1,0 +1,20 @@
+.blogDetails {
+  max-width: 900px;
+  margin-inline: auto;
+}
+.thumbnails {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  filter: brightness(0.9);
+  object-fit: cover;
+}
+.textCap {
+  text-transform: capitalize;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.blogDetails h2 {
+  text-align: center;
+  font-size: 32px;
+}
